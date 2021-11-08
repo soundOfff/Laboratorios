@@ -1,0 +1,6 @@
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\LabSintaxis3\bin\Debug\LabSintaxis3.exe.config
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\LabSintaxis3\bin\Debug\LabSintaxis3.exe
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\LabSintaxis3\bin\Debug\LabSintaxis3.pdb
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\LabSintaxis3\obj\Debug\LabSintaxis3.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\LabSintaxis3\obj\Debug\LabSintaxis3.exe
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\LabSintaxis3\obj\Debug\LabSintaxis3.pdb

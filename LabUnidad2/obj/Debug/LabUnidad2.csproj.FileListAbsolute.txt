@@ -1,0 +1,6 @@
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\LabUnidad2\bin\Debug\LabUnidad2.exe.config
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\LabUnidad2\bin\Debug\LabUnidad2.exe
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\LabUnidad2\bin\Debug\LabUnidad2.pdb
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\LabUnidad2\obj\Debug\LabUnidad2.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\LabUnidad2\obj\Debug\LabUnidad2.exe
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\LabUnidad2\obj\Debug\LabUnidad2.pdb

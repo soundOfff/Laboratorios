@@ -1,0 +1,7 @@
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\LaboratorioUnidad1\bin\Debug\LaboratorioUnidad1.exe.config
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\LaboratorioUnidad1\bin\Debug\LaboratorioUnidad1.exe
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\LaboratorioUnidad1\bin\Debug\LaboratorioUnidad1.pdb
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\LaboratorioUnidad1\obj\Debug\LaboratorioUnidad1.csprojAssemblyReference.cache
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\LaboratorioUnidad1\obj\Debug\LaboratorioUnidad1.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\LaboratorioUnidad1\obj\Debug\LaboratorioUnidad1.exe
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\LaboratorioUnidad1\obj\Debug\LaboratorioUnidad1.pdb

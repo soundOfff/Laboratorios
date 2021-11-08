@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JuegoLab2.2", "JuegoLab2.2.csproj", "{E054ADF9-74FA-4DE9-8523-B94837A10B0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JuegoConAyudaLab2.2", "..\JuegoConAyudaLab2.2\JuegoConAyudaLab2.2.csproj", "{75139868-3392-4624-AD77-AD0DB94DA675}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E054ADF9-74FA-4DE9-8523-B94837A10B0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E054ADF9-74FA-4DE9-8523-B94837A10B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E054ADF9-74FA-4DE9-8523-B94837A10B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E054ADF9-74FA-4DE9-8523-B94837A10B0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75139868-3392-4624-AD77-AD0DB94DA675}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75139868-3392-4624-AD77-AD0DB94DA675}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75139868-3392-4624-AD77-AD0DB94DA675}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75139868-3392-4624-AD77-AD0DB94DA675}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A7F84D0-1943-4645-97A4-4FB0FAAD854C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\Capitulo2\lab1\Windows\bin\Debug\Windows.exe.config
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\Capitulo2\lab1\Windows\bin\Debug\Windows.exe
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\Capitulo2\lab1\Windows\bin\Debug\Windows.pdb
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\Capitulo2\lab1\Windows\obj\Debug\Windows.csprojAssemblyReference.cache
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\Capitulo2\lab1\Windows\obj\Debug\Windows.Properties.Resources.resources
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\Capitulo2\lab1\Windows\obj\Debug\Windows.csproj.GenerateResource.cache
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\Capitulo2\lab1\Windows\obj\Debug\Windows.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\Capitulo2\lab1\Windows\obj\Debug\Windows.exe
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\Capitulo2\lab1\Windows\obj\Debug\Windows.pdb

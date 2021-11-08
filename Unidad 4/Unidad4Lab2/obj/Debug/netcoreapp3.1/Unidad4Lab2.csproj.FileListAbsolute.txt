@@ -1,0 +1,4 @@
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\Unidad 4\Unidad4Lab2\obj\Debug\netcoreapp3.1\Unidad4Lab2.csprojAssemblyReference.cache
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\Unidad 4\Unidad4Lab2\obj\Debug\netcoreapp3.1\Unidad4Lab2.AssemblyInfoInputs.cache
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\Unidad 4\Unidad4Lab2\obj\Debug\netcoreapp3.1\Unidad4Lab2.AssemblyInfo.cs
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\Unidad 4\Unidad4Lab2\obj\Debug\netcoreapp3.1\Unidad4Lab2.csproj.CoreCompileInputs.cache

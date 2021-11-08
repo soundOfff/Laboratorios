@@ -1,0 +1,5 @@
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\Capitulo2\lab1\Util\bin\Debug\Util.dll
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\Capitulo2\lab1\Util\bin\Debug\Util.pdb
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\Capitulo2\lab1\Util\obj\Debug\Util.csproj.CoreCompileInputs.cache
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\Capitulo2\lab1\Util\obj\Debug\Util.dll
+C:\Users\Ignacio Brasca\Desktop\Tomi 2021\.Net\Capitulo2\lab1\Util\obj\Debug\Util.pdb
